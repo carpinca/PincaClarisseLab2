@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PincaClarisseLab2</string>
+    <string name="back">BACK</string>
+    <string name="location">Location: 2166 España St | Sampaloc, Manila</string>
+    <string name="next">NEXT</string>
+    <string name="linear_layout">Linear Layout</string>
+    <string name="cons_layout">Constraint Layout</string>
+    <string name="rel_layout">Relative Layout</string>
+    <string name="distance">Distance from UST: 0.3 km from UST</string>
+    <string name="bulaluhan_sa_espana">Bulaluhan sa España</string>
+    <string name="brinner">Brinner</string>
+    <string name="todo">TODO</string>
+</resources>
